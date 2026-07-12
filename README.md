@@ -1,4 +1,4 @@
-# 🫁 Public Health Analytics: Global Tuberculosis Burden Analysis
+# Global Tuberculosis Burden Analysis
 
 ## Table of Contents
 
