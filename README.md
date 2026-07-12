@@ -14,6 +14,8 @@
 - [References](#references)
 
 ---
+<img width="1005" height="551" alt="First page" src="https://github.com/user-attachments/assets/9fbe93ee-3ea3-4f52-83ac-abf53f5751c8" />
+
 
 # Project Overview
 
@@ -237,3 +239,4 @@ While the analysis provides valuable insights, several limitations should be ack
 - Microsoft Power BI Documentation.
 - Microsoft Learn – DAX Documentation.
 - Figma Documentation.
+<img width="1006" height="555" alt="second page" src="https://github.com/user-attachments/assets/bc834a23-ed61-486a-a45f-e616e153ec19" />
